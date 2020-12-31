@@ -1,5 +1,5 @@
 # Projects & Notes
-Welcome to my vault. This is my mind palace where I store all my projects and assignments. You are welcome to stroll through this repository and check out how I am exploring this vast field of Data Science by going through various books or auditing various courses or going through kaggle notebooks.
+Welcome to my vault. This is my mind palace where I store all my projects notes and assignments. You are welcome to stroll through this repository and check out how I am exploring this vast field of Data Science by going through various books or auditing various courses or going through kaggle notebooks.
 
 Please provide me with feedback if any.
 
